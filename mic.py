@@ -62,7 +62,7 @@ def z():
     print(" TOOL USERNAME : MICRON (correct)")
     print(" TOOL PASSWORD : SHADOW (correct)")
     time.sleep(1)
-    \033[1;96m=======================================                                                 
+                                                  
     
     
     print("")
